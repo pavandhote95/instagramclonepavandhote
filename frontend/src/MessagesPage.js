@@ -99,7 +99,7 @@ function MessagesPage() {
                 <div className="message-page-main-area">
                     <div className="message-page-left-area">
                         <div className="message-page-left-area-upper">
-                            <div style={{margin: "auto"}}>yavuzyigitmuhammetali</div>
+                            <div style={{margin: "auto"}}>prince dhote</div>
                             <Link style={{position: "absolute", right: "5%", top: "30%"}}
                                   to="http://localhost:3000/direct/new/">
                                 <svg className="_ab6-" color="rgb(38, 38, 38)"

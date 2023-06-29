@@ -30,28 +30,28 @@ function StoryArea() {
                 <div className="story-left-button" onClick={scrollLeft}><img src={left} alt="left"/></div>
                 <div className="story-area-box" ref={scrollRef}>
                     <StoryElement profilePicture={test_pp_icon}>
-                        yavuzyigitmuhammetali
+                        prince dhote
                     </StoryElement>
                     <StoryElement profilePicture={test_pp_icon}>
-                        yavuzyigitmuhammetali
+                        prince dhote
                     </StoryElement>
                     <StoryElement profilePicture={test_pp_icon}>
-                        yavuzyigitmuhammetali
+                        prince dhote
                     </StoryElement>
                     <StoryElement profilePicture={test_pp_icon}>
-                        yavuzyigitmuhammetali
+                        prince dhote
                     </StoryElement>
                     <StoryElement profilePicture={test_pp_icon}>
-                        yavuzyigitmuhammetali
+                        prince dhote
                     </StoryElement>
                     <StoryElement profilePicture={test_pp_icon}>
-                        yavuzyigitmuhammetali
+                        prince dhote
                     </StoryElement>
                     <StoryElement profilePicture={test_pp_icon}>
-                        yavuzyigitmuhammetali
+                        prince dhote
                     </StoryElement>
                     <StoryElement profilePicture={test_pp_icon} checkOpen={true}>
-                        yavuzyigitmuhammetali
+                        prince dhote
                     </StoryElement>
 
                 </div>
