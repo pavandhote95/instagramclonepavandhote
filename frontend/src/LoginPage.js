@@ -48,17 +48,15 @@ function LoginPage() {
                 <div className="background-filter">
                     <div className="info-box">This copy is a copy of Instagram prepared by me and very open to
                         criticism, which I bravely started before I had even completed two weeks of web programming, and
-                        therefore I was aware that I might have shortcomings. (I only had a few months of C++
+                        therefore I was aware that I might have shortcomings. (I only had a few months of python django
                         experience)
                         As I am extremely deficient in every subject and therefore need to improve a lot in every area;
                         Tailwindcss, Bootstrap etc. I tried not to use any of the methods that would make my job easier
                         and everything ready (all css, html, js. belong to me).
-                        I need your help more than enough;
                         What I need most right now are comments from experienced people.
-                        The features you want me to add to the project, the areas you think I am missing and advice etc.
-                        I would be very happy if you write to the email address I have added below :)<br/>
+            :)<br/>
                         Thanks in advance, I will continue to work hard to improve as much as possible ...
-                        <h1>"yavuzyigitmuhammetali@gmail.com"</h1>
+                        <h1>"pavandhote95@gmail.com"</h1>
                         <div style={{color:"red",fontWeight:"bold",border:"1px solid red",margin:"auto"}} onClick={() => setAnnouncement(false)}>CLOSE!</div>
                     </div>
                 </div>
